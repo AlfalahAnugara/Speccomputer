@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Speccomputer</string>
+    <string name="explicit_intent">Explicit Intent</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="change_avatar">Change Avatar</string>
+    <string name="name">Name</string>
+    <string name="name_hint">Input your name</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Input your password</string>
+    <string name="profile">Profile</string>
+    <string name="username_hint">Input your username</string>
+    <string name="android_bundle">Android Bundle</string>
+    <string name="age">Age</string>
+    <string name="age_hint">Input your age</string>
+    <string name="exit">Exit</string>
+
+<!--Activity_Computer-->
+    <string name="ram_hint">Choose your RAM</string>
+    <string name="proc_hint">Choose your Processor</string>
+    <string name="vga_hint">Choose your VGA</string>
+    <string name="mobo_hint">Choose your Motherboard</string>
+    <string name="psu_hint">Choose your PSU</string>
+    <string name="casing_hint">Choose your Casing</string>
+    <!---->
+    <string name="parcelable">Computer</string>
+    <string name="ram">RAM</string>
+    <string name="proc">Processor</string>
+    <string name="vga">VGA</string>
+    <string name="mobo">Motherboard</string>
+    <string name="psu">PSU</string>
+    <string name="casing">Casing</string>
+
+
+</resources>
