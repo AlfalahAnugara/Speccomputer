@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ProfileComputerActivity"></activity>
+        <activity android:name=".SpecActivity"></activity>
+        <activity android:name=".ProfileComputerActivity" />
         <activity android:name=".ComputerActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
