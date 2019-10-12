@@ -7,9 +7,12 @@
     <string name="name_hint">Input your name</string>
     <string name="submit">Submit</string>
     <string name="profile">Profile</string>
-    <string name="android_bundle">Android Bundle</string>
+
     <string name="exit">Exit</string>
 
+
+    <!--Activity_Profile_Spec-->
+    <string name="spec_bundle">Specification</string>
 
     <!--Activity_Profile_Computer-->
     <!--Activity_Computer-->
