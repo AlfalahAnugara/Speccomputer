@@ -15,7 +15,7 @@
     <string name="age_hint">Input your age</string>
     <string name="exit">Exit</string>
 
-<!--Activity_Computer-->
+    <!--Activity_Computer-->
     <string name="ram_hint">Choose your RAM</string>
     <string name="proc_hint">Choose your Processor</string>
     <string name="vga_hint">Choose your VGA</string>
